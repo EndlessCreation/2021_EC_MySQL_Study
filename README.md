@@ -12,11 +12,10 @@
         <td align="center"><a href="https://github.com/dnatuna"><img src="https://avatars0.githubusercontent.com/u/28949165?s=400&u=608b56c039f3c98c01300078fa4b9a6733a9d798&v=4" width="100px;" alt=""/><br /><sub><b>김건훈</b></sub></a></td>
         <td align="center"><a href="https://github.com/InHyeok-J"><img src="https://avatars.githubusercontent.com/u/28949213?v=4" width="100px;" alt=""/><br /><sub><b>조인혁</b></sub></a></td>
         <td align="center"><a href="https://github.com/sjsjsj1246"><img src="https://avatars.githubusercontent.com/u/24623403?v=4" width="100px;" alt=""/><br /><sub><b>황인서</b></sub></a></td>
-        <td align="center"><a href="https://github.com/oh980225"><img src="https://avatars.githubusercontent.com/u/33858991?v=4" width="100px;" alt=""/><br /><sub><b>오승재</b></sub></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/yelimkim98"><img src="https://avatars1.githubusercontent.com/u/28949340?s=460&u=6efb3238ffe9f1b383c9255445eb5d39d0a82a03&v=4" width="100px;" alt=""/><br /><sub><b>김예림</b></sub></a></td>
-        <td align="center"><a href="https://github.com/EomYoosang"><img src="https://avatars.githubusercontent.com/u/53031768?v=4" width="100px;" alt=""/><br /><sub><b>엄유상</b></sub></a></td>
+        <td align="center"><a href="https://github.com/oh980225"><img src="https://avatars.githubusercontent.com/u/33858991?v=4" width="100px;" alt=""/><br /><sub><b>오승재</b></sub></a></td>
         <td align="center"><a href="https://github.com/Tae-Hyeon
 "><img src="https://avatars1.githubusercontent.com/u/20275668?s=400&v=4" width="100px;" alt=""/><br /><sub><b>한태현</b></sub></a></td>
     </tr>
@@ -47,22 +46,30 @@
       <td rowspan="2"  align="center">1주차</td>
       <td  align="center">김예림</td>
       <td  align="center">4장 아키텍처 </td>
-      <td  align="center">-</td>
+      <td  align="center"><a href="https://yelimkim98.tistory.com/51">LINK</a></td>
       <td rowspan="2"  align="center">-</td>
-      <td rowspan="2"  align="center">-</td>
+        <td rowspan="2"  align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/issues/1">1주차</a></td>
     </tr>
     <tr>
       <td  align="center">오승재</td>
       <td  align="center">4장 아키텍처 </td>
-      <td  align="center">-</td>
+      <td  align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/blob/main/chapter4_%EC%8A%B9%EC%9E%AC.md">LINK</a></td>
+    </tr>
+    <tr>
+        <td align="center">2주차</td>
+        <td align="center">한태현</td>
+        <td align="center">5장 트랜잭션과 잠금</td>
+        <td align="center"><a href="https://velog.io/@fortice/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9E%A0%EA%B8%88Lock">LINK</a></td>
+        <td align="center">김건훈</td>
+        <td align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/issues/3">LINK</a></td>
     </tr>
 </table>
 
 
 ### 발표자 스택
-|조인혁|김건훈|김예림|한태현|오승재|엄유상|황인서|
-|--|--|--|--|--|--|--|
-|||✔️||✔️||
+|조인혁|김건훈|김예림|한태현|오승재|황인서|
+|--|--|--|--|--|--|
+|||✔️|✔️|✔️||
 |||||||
 |||||||
 |||||||
