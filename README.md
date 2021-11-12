@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/yelimkim98"><img src="https://avatars1.githubusercontent.com/u/28949340?s=460&u=6efb3238ffe9f1b383c9255445eb5d39d0a82a03&v=4" width="100px;" alt=""/><br /><sub><b>김예림</b></sub></a></td>
-        <td align="center"><a href="https://github.com/oh980225"><img src="https://avatars.githubusercontent.com/u/33858991?v=4" width="100px;" alt=""/><br /><sub><b>오승재</b></sub></a></td>
         <td align="center"><a href="https://github.com/Tae-Hyeon
 "><img src="https://avatars1.githubusercontent.com/u/20275668?s=400&v=4" width="100px;" alt=""/><br /><sub><b>한태현</b></sub></a></td>
+        <td></td>
     </tr>
 </table>
 
@@ -61,16 +61,40 @@
         <td align="center">5장 트랜잭션과 잠금</td>
         <td align="center"><a href="https://velog.io/@fortice/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9E%A0%EA%B8%88Lock">LINK</a></td>
         <td align="center">김건훈</td>
-        <td align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/issues/3">LINK</a></td>
+        <td align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/issues/3">2주차</a></td>
     </tr>
+    <tr>
+        <td align="center">3주차</td>
+        <td align="center">조인혁</td>
+        <td align="center">8장 인덱스 ~ 8.3 BTree</td>
+        <td align="center"><a href="https://peppered-viscount-bd6.notion.site/8-6dc8cc400faa425a94ddccdfe2e93eca">LINK</a></td>
+        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/EndlessCreation/2021_EC_MySQL_Study/issues/4">3주차</a></td>
+    </tr>
+    <tr>
+        <td align="center">4주차</td>
+        <td align="center">김건훈</td>
+        <td align="center">8.4~ 9.2</td>
+        <td align="center"><a href="#">LINK</a></td>
+        <td align="center">-</td>
+        <td align="center"><a href="#">4주차</a></td>
+    </tr>
+    <tr>
+        <td align="center">5주차</td>
+        <td align="center">황인서</td>
+        <td align="center">9장 9.3~</td>
+        <td align="center"><a href="#">LINK</a></td>
+        <td align="center">-</td>
+        <td align="center"><a href="#">5주차</a></td>
+    </tr> 
 </table>
 
 
 ### 발표자 스택
-|조인혁|김건훈|김예림|한태현|오승재|황인서|
-|--|--|--|--|--|--|
-|||✔️|✔️|✔️||
-|||||||
-|||||||
-|||||||
-|||||||
+|조인혁|김건훈|김예림|한태현|황인서|
+|--|--|--|--|--|
+|✔️||✔️|✔️||
+||||||
+||||||
+||||||
+||||||
